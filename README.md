@@ -1,6 +1,6 @@
-# 📧 Phishing Email Analysis – PayPal Fake Alert
+#  Phishing Email Analysis – PayPal Fake Alert
 
-## 🚨 Sample Email:
+##  Sample Email:
 **From:** service@paypa1.com  
 **Subject:** Urgent: Your PayPal Account is Suspended  
 
@@ -18,7 +18,7 @@ PayPal Support Team
 
 ---
 
-## 🕵️‍♀️ Phishing Indicators Identified:
+##  Phishing Indicators Identified:
 
 | Indicator | Description |
 |----------|-------------|
@@ -31,14 +31,14 @@ PayPal Support Team
 
 ---
 
-## 🛠 Tools Used:
+##  Tools Used:
 - Google’s [Email Header Analyzer](https://toolbox.googleapps.com/apps/messageheader/)  
 - Web browser (for link inspection via hover)  
 - Manual review (grammar, structure, and language)
 
 ---
 
-## ✅ Conclusion:
+## Conclusion:
 This email is a textbook phishing attempt. It uses:
 - **Spoofed domains**
 - **Urgency**
